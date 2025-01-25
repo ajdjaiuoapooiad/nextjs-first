@@ -13,7 +13,7 @@ const ProductsList = () => {
 
             <ul>
                 <li>
-                    <Link href='/products/smartphone'>
+                    <Link  href='/products/smartphone'>
                         スマートフォン
                     </Link>
                 </li>

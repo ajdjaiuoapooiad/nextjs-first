@@ -18,7 +18,7 @@ const ProductsList = () => {
                     </Link>
                 </li>
                 <li>
-                    <Link href='/products/ps'>
+                    <Link href='/products/pc'>
                         パソコン
                     </Link>
                 </li>
